@@ -1,0 +1,56 @@
+body {  /* Body =  Corpo da página   */
+
+    background-color: rgb(0, 0, 0); /* background-color = cor de fundo  */
+    font: normal 15pt Arial ; /* font = fonte da letra do corpo */
+    background-image: url(predios\ .png) ;
+
+   
+}
+
+header { /*  Header = cabeçalho */ 
+color: white; /* color = cor ( cor  do cabeçalho )  */ 
+text-align: center;  /* text-align =  alinahmento de texto */ 
+
+
+
+}
+
+section {  /* seção  */ 
+    background: rgb(246, 245, 247); /* background = fundo ( com cor branca)   */
+    border-radius: 10px ; /* border -radius =  arredonda as pontas da section */
+    padding: 15px; /* padding =  configura um espaço dentro da section  */
+    width: 500px; /*  width = largura  */
+    margin: auto;  /* margin = centralização  */
+    box-shadow: 5px 5px 10px rgb(241, 184, 58) ; /* box-shadow =  sombremamento da section   */
+
+
+
+}
+
+footer {
+
+    color: white;
+    text-align: center;
+    font-style: italic;
+    width: auto;
+    line-height: 100% ;
+}
+
+.redes {
+
+    width: 100%;
+    text-align: center;
+}
+
+.redes img {
+    width: 2.75%;
+
+
+}
+
+.redes ul li {
+
+    list-style-type: none ;
+    display: inline;
+
+}
